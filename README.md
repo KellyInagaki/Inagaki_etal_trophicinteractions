@@ -1,8 +1,26 @@
-# Inagaki_etal_trophicinteractions
-## R Scripts for Inagaki_etal_Trophic interactions will expand geographically, but be less intense as oceans warm_GlobalChangeBiology
-### Inagaki_et_al_Occurence_Models
-### Inagaki_et_al_Biomass_Models
-### Inagaki_et_al_Feeding_Pressure_Models
-### Inagaki_et_al_Ocerlapping_Models
+This repository contains code to reproduce the article:
 
-## Other fileshapes related to scripts above
+Inagaki KY, Pennino MG, Floeter SR, Hay ME, Longo GO. Trophic interactions will expand geographically, but be less intense as oceans warm. (under review)
+
+Instructions:
+- Data can be assessed by DOI: 10.5281/zenodo.1345159
+- All analyses were runned in R version 4.0.2
+
+To read and organize data:
+- file OccurrenceData
+- file BiomassData
+- file FeedingData
+
+To make estimations and predictions:
+- File: Inagaki_et_al_Occurrence_Models
+- File: Inagaki_et_al_Biomass_Models
+- File: Inagaki_et_al_Feeding_pressure_Models
+- File: envi_pred
+- Associatde file: HighstatLib
+
+To overlap models:
+- File: Inagaki_et_al_Overlapping_Models
+
+Shapefiles:
+- Files: Mar_Simplificado
+- Files: zona
