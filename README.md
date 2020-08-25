@@ -7,9 +7,9 @@ Instructions:
 - All analyses were runned in R version 4.0.2
 
 To read and organize data:
-- file OccurrenceData
-- file BiomassData
-- file FeedingData
+- File OccurrenceData
+- File BiomassData
+- File FeedingData
 
 To make estimations and predictions:
 - File: Inagaki_et_al_Occurrence_Models
