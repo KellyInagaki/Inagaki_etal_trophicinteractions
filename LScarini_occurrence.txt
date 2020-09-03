@@ -20,11 +20,11 @@ central_florida	a51	-80	26.883333	1
 central_florida	blu	-80.016667	26.9	1
 central_florida	cpm	-80	26.866667	1
 central_florida	spf	-80	26.883333	1
-curaçao	oo1	-68.8	12.033333	1
-curaçao	oo2	-68.816667	12.033333	1
-curaçao	snb	-68.983333	12.133333	1
-curaçao	waf	-68.95	12.1	1
-curaçao	west	-69.15	12.366667	1
+curaÃ§ao	oo1	-68.8	12.033333	1
+curaÃ§ao	oo2	-68.816667	12.033333	1
+curaÃ§ao	snb	-68.983333	12.133333	1
+curaÃ§ao	waf	-68.95	12.1	1
+curaÃ§ao	west	-69.15	12.366667	1
 florida_keys	conc	-80.458333	24.953056	1
 florida_keys	mol	-80.370833	25.013889	1
 florida_keys	pic	-80.414444	24.9875	1
